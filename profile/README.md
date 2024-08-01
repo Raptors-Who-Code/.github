@@ -1,6 +1,6 @@
 ## Welcome to Raptors Who Code!
 ### The club for tech enthusiasts and curious minds alike! 
-#### Whether you're deep in a tech field or just starting out, we provide a space to explore programming and computers. 
+### Whether you're deep in a tech field or just starting out, we provide a space to explore programming and computers. 
 ### Join us as we build exciting projects, attend hackathons, and continuously learn and grow together. 
 
 <!--
